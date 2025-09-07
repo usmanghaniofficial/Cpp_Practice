@@ -1,0 +1,2 @@
+Hello, this is file handling in C++!
+I am learning C++.
